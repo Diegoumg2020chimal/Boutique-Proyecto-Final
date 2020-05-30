@@ -5,9 +5,9 @@ import pymysql
 #Programacion 1, Ingeniero Haroldo Turcios
 #Programadores: 
 # Kevin Gudiel Sequen Sal Carné: 1990-15-17463
-# Jose ELias Jonathan Xia Zamora Carné: 1990-19-24815
+# Jose Elias Jonathan Xia Zamora Carné: 1990-19-24815
 # Jairo Vinicio Damian Pellecer Carné: 1990-17-16458
-# Lester Oswaldo Martínez Morales Carné: 1990-19-7786
+# Lester Oswaldo Martínez Morales Carné: 1990-19-7783
 # Diego Antonio Martinez Yucute Carné: 1990-19-17123
 # Yeison Arnoldo Cum Yaqui Carné: 1990-19-12072
 #Fecha: 30 de mayo de 2020
